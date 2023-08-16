@@ -190,7 +190,11 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
+<<<<<<< HEAD
   orthographic size: 14.81
+=======
+  orthographic size: 10
+>>>>>>> 0d2863eed3c62795a5b305229a0fa2ca6118b210
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -345,7 +349,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 523117611}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.7382, y: -0.1841, z: 0}
+  m_LocalPosition: {x: 0.01, y: 6.81, z: 0}
   m_LocalScale: {x: 1.5365, y: 1.4918, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -676,7 +680,7 @@ GameObject:
   - component: {fileID: 1304106252}
   - component: {fileID: 1304106251}
   m_Layer: 0
-  m_Name: Gr0und
+  m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
