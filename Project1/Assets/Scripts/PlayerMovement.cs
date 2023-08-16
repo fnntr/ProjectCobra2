@@ -6,7 +6,11 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public float speed = 0;
+<<<<<<< Updated upstream
     public float jumpForce = 6;
+=======
+    public float jumpForce = 7;
+>>>>>>> Stashed changes
     private Rigidbody2D rb;
     
     void Start()
