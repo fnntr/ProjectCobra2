@@ -331,8 +331,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 523117611}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.27, y: 0.33, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -4.7382, y: -0.1841, z: 0}
+  m_LocalScale: {x: 1.5365, y: 1.4918, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -362,7 +362,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 672811560}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1, y: 1.12, z: 0}
+  m_LocalPosition: {x: -0.01, y: 1.07, z: 0}
   m_LocalScale: {x: 15, y: 15, z: 1}
   m_Children: []
   m_Father: {fileID: 1215264488}
@@ -459,8 +459,10 @@ EdgeCollider2D:
   - {x: -0.11500712, y: -0.15145946}
   - {x: 0.051388785, y: -0.15179418}
   - {x: 0.07838344, y: -0.11157744}
-  - {x: 0.05342814, y: -0.12128646}
-  - {x: -0.114829965, y: -0.11932954}
+  - {x: 0.088426225, y: -0.079197794}
+  - {x: 0.06659269, y: -0.12239702}
+  - {x: -0.12044762, y: -0.115563594}
+  - {x: -0.1233661, y: -0.053858284}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -585,7 +587,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 5
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
